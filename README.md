@@ -1,42 +1,58 @@
 # Salut, je suis Hichame 👋
 
-## 💻 Développeur Web Front-End
+## 💻 Développeur Full-Stack & Mobile
 
-Passionné par le développement web moderne et les interfaces utilisateur intuitives.
+Passionné par le développement web moderne, les applications mobiles et l'intégration d'IA.
 
 ---
 
 ### 🛠️ Stack Technique
 
+**Frontend & Mobile**
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+**Backend & Database**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**Mobile Development**
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+
+**AI & Tools**
+
+![Claude](https://img.shields.io/badge/Claude_AI-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_Anthropic-FF6B35?style=for-the-badge)
 
 ---
 
-### 🚀 Projets Phares
+### 🚀 Projet Phare
 
-🏍️ **[MotorQuest](https://github.com/hichame-dev/MotorQuest)** - Application mobile pour motards
+🏍️ **MotorQuest** - Application mobile pour motards
+- Tracking GPS en temps réel
+- - Analyse d'angle d'inclinaison
+  - - Système de gamification
+    - - React Native + TypeScript + MongoDB Atlas
+     
+      - ---
 
-🏠 **[Kasa](https://github.com/hichame-dev/Kasa)** - Site de location immobilière en React
+      ### 📊 GitHub Stats
 
-💼 **[Portfolio](https://github.com/hichame-dev/Portfolio)** - Mon portfolio personnel
+      ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hichame-dev&show_icons=true&theme=tokyonight&hide_border=true)
 
----
+      ---
 
-### 📊 GitHub Stats
+      ### 📫 Me Contacter
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hichame-dev&show_icons=true&theme=tokyonight&hide_border=true)
+      [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hichame-el-ghaouti-874b31376)
+      [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:hichame_dev@outlook.com)
 
----
+      ---
 
-### 📫 Me Contacter
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-
----
-
-⭐ N'hésitez pas à explorer mes repositories !
+      ⭐ N'hésitez pas à explorer mes repositories !
